@@ -1,3 +1,3 @@
 def testing():
-    print("Version: 3")
+    print("Version: 1")
 testing()
